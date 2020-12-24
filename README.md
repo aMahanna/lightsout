@@ -15,13 +15,8 @@ The `SolutionsOnly` version is a non-interactable version that  displays the mos
 
 3) `java LightsOut 4 4` (parameters can be changed)
 
-
-### Images
-![game](imgs/game.png)
-
-![ui](imgs/ui.png)
-
-![terminal](imgs/terminal.png)
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="img1" src="imgs/game.png"> |  <img width="1604" alt="img2" src="imgs/ui.png"> |  <img width="1604" alt="img3" src="imgs/terminal.png">
 
 
